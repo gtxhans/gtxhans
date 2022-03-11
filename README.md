@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gtxhans
 - 👀 I’m interested in data science in general, systems biology and bioinformatics particularly
 - 🌱 I’m still learning every day ;)
-- 💞️ I’m looking to collaborate on anything related to multi-omics, oncology and immunology
+- 💞️ I’m looking to collaborate on anything related to multi-omics, gene therapy, oncology and immunology
 - 📫 You can reach me on hans.meijer@dnagtx.com
 
 <!---
